@@ -1,0 +1,19 @@
+.delete-button {
+    display: flex;
+    justify-content: center;
+    background-color: #dc3545; /* culoarea de fundal pentru varianta de "danger" */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.delete-button:hover {
+    background-color: #c82333; /* culoarea de fundal la hover */
+}
+
+.favorite-container {
+    height: auto;
+}

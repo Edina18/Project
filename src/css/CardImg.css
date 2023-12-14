@@ -1,0 +1,31 @@
+.card-body {
+    background: #212529;
+    color: azure;
+}
+
+.card-total {
+    border: #212529;
+    background: #212529;
+    color: azure;
+}
+
+.card-title {
+    background-color: #212529;
+    color: azure;
+}
+
+.favorite-button {
+    display: flex;
+    justify-content: center;
+    background-color: #dc3545; /* culoarea de fundal pentru varianta de "danger" */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.favorite-button:hover {
+    background-color: #c82333; /* culoarea de fundal la hover */
+}

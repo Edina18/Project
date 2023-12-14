@@ -1,0 +1,10 @@
+.footer {
+    height: 70px;
+    margin-bottom: -25px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    background-color: #212529;
+    color: azure;
+}

@@ -1,0 +1,11 @@
+.top-to-btm {
+    color: red;
+    background: #ffff;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    padding: 0 5px 0 7px;
+    cursor: pointer;
+}

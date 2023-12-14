@@ -1,0 +1,46 @@
+.classDiscover {
+    color: #dc3545 !important;
+    border-color: #212529;
+}
+.slogan {
+    font-size: 80px;
+    padding-top: 40px;
+    padding-left: 40px;
+    color: azure;
+}
+
+@media screen and (max-width: 1400px) {
+    .slogan {
+        font-size: 70px;
+    }
+}
+
+@media screen and (max-width: 1250px) {
+    .slogan {
+        font-size: 70px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .slogan {
+        font-size: 64px;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .slogan {
+        font-size: 50px;
+    }
+}
+
+@media screen and (max-width: 850px) {
+    .slogan {
+        font-size: 50px;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .slogan {
+        font-size: 60px;
+    }
+}
